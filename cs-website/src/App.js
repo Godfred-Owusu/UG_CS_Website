@@ -1,14 +1,14 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Nav from "../src/Components/Nav/Nav";
-import Home from "../src/Components/Home/Home";
-import Contact from "../src/Components/Contact/Contact";
-import About from "../src/Components/About/About";
-import Project from "../src/Components/Project/Project";
-import Msc from "../src/Components/Msc/Msc";
-import Requirement from "../src/Components/Requirement/Requirement";
-import Service from "../src/Components/Service/Service";
-import Alumni from "../src/Components/Alumni/Alumni";
-import UndergradCourse from "../src/Components/UndergradCourse/UndergradCourse";
+import Nav from "../src/Pages/Nav/Nav";
+import Home from "../src/Pages/Home/Home";
+import Contact from "../src/Pages/Contact/Contact";
+import About from "../src/Pages/About/About";
+import Project from "../src/Pages/Project/Project";
+import Msc from "../src/Pages/Msc/Msc";
+import Requirement from "../src/Pages/Requirement/Requirement";
+import Service from "../src/Pages/Service/Service";
+import Alumni from "../src/Pages/Alumni/Alumni";
+import UndergradCourse from "../src/Pages/UndergradCourse/UndergradCourse";
 
 import "./App.css";
 
