@@ -14,7 +14,7 @@ const About = () => {
        <p>
         The range of courses available in the department and skill
         acquired by students enable them to find employment in many 
-        in many diverse fiels of economy and prepare our graduates for the computing industry,
+        in many diverse fields of economy and prepare our graduates for the computing industry,
         working in the project team , and  to enable the graduates to bring specialist
         skills to that team. the course also provides the platform for further study or research
         through exposure to established and emerging technologies
