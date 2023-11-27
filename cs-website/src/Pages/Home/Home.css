@@ -10,7 +10,7 @@ video {
 }
 .heading {
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 10%;
   right: 10%;
   text-align: center;
@@ -22,4 +22,45 @@ video {
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.padding {
+  padding: 0 2rem 2rem 2rem;
+}
+
+.image-container {
+  width: 30%;
+  padding: 4rem 0;
+}
+
+.image1 {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+.text {
+  margin-top: 50px;
+  width: 30%;
+}
+
+.short-course {
+  text-align: center;
+}
+.topic {
+  color: white;
+  padding: 10px 0;
+}
+.carousel-image {
+  background-color: rgb(11, 19, 56);
+  text-align: center;
+  width: fit-content;
+}
+.desc {
+  line-height: 2;
+  font-weight: 300;
+  padding: 2px;
 }
