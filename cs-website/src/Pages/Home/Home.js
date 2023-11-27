@@ -1,5 +1,6 @@
 import React from "react";
 import videobg from "../../assets/video.mp4";
+
 import image1 from "../../assets/1.jpg";
 
 import HomeCard from "../../componet/HomeCard";
